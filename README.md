@@ -43,7 +43,7 @@ The single file executable can be created for Windows, Linux, Unix, and MacOS.
 ## Adding your script's needed Python libraries
 If your script needs other Python libraries:
 1. You need to install the Python library in your build environment
-2. Declare the library import in Main.py
+2. Declare the library import in pyscriptrunner.py
 3. Build the single executable app again.
 
 Example if your script needs psutil:
