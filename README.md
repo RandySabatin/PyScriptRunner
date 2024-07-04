@@ -48,7 +48,7 @@ If your script needs other Python libraries:
 
 Example if your script needs psutil:
 1. pip install -r psutil
-2. Add "import psutil" in Main.py
+2. Add "import psutil" in pyscriptrunner.py
 3. Pyinstaller main.spec
 
 ## Contributing:
