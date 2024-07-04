@@ -2,7 +2,7 @@
 
 block_cipher = None
 
-a = Analysis(['main.py'],
+a = Analysis(['pyscriptrunner.py'],
              pathex=['.\\'],
              binaries=[],
              datas=[],
